@@ -3,9 +3,9 @@
 ## Tecnologias
 <p align='center'>
   <img src="https://img.shields.io/badge/Git-0b6b81?style=for-the-badge&logo=git&logoColor=white&colorA=orange&colorB=blue" />
-  <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=black&colorA=orange&colorB=blue" /> 
+  <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=red&colorA=orange&colorB=blue" /> 
    
-  <img src="https://img.shields.io/badge/HTML5-0b6b81?style=for-the-badge&logo=html5&logoColor=black&colorA=orange&colorB=blue" />  
+  <img src="https://img.shields.io/badge/HTML5-0b6b81?style=for-the-badge&logo=html5&logoColor=black&colorA=white&colorB=blue" />  
   <img src="https://img.shields.io/badge/CSS3-0b6b81?style=for-the-badge&logo=css3&logoColor=black&colorA=orange&colorB=blue" />  
   <img src="https://img.shields.io/badge/JavaScript-0b6b81?style=for-the-badge&logo=javascript&logoColor=black&colorA=orange&colorB=blue" />
   <img src="https://img.shields.io/badge/TypeScript-0b6b81?style=for-the-badge&logo=typescript&logoColor=black&colorA=orange&colorB=blue" />
