@@ -1,6 +1,16 @@
 ### Hi eu sou Tiago Oliveira 👋
 
-## Tecnologias
+<p align='left'>
+Tenho 30 anos, nasci e cresci em Cachoeira de Minas, MG. 
+  
+Trabalhei por muito tempo na roça, sempre lendo bastante e utilizando a internet como portal de aprendizagem.
+  
+Sempre gostei muito de tecnologia com a infinita possibilidade de criação de softwares e aplicativos.
+  
+Atualmente estou finalizando o módulo de Back-end na Trybe.
+</p>
+
+## Tecnologias que uso
 <p align='center'>
   <img src="https://img.shields.io/badge/Git-0b6b81?style=for-the-badge&logo=git&logoColor=white&colorA=blue&colorB=blue" />
   <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=white&colorA=blue&colorB=blue" /> 
@@ -27,13 +37,11 @@
   <img src="https://img.shields.io/badge/Mocha-0b6b81?style=for-the-badge&logo=mocha&logoColor=white&colorA=blue&colorB=blue" />
   <img src="https://img.shields.io/badge/Chai-0b6b81?style=for-the-badge&logo=chai&logoColor=white&colorA=blue&colorB=blue" />
 </p>
-</br>
 <div align='center'>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoOliveira7890&show_icons=true&bg_color=00000000)
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoOliveira7890&langs_count=8)](https://github.com/TiagoOliveira7890/github-readme-stats)
-</br>
+
 </div>
 
 ## Idiomas
