@@ -28,3 +28,4 @@
   <img src="https://img.shields.io/badge/Chai-0b6b81?style=for-the-badge&logo=chai&logoColor=black&colorA=ff69b4&colorB=blue" />
 </p>
 
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoOliveira7890&show_icons=true&theme=dracula&count_private=true)
