@@ -2,7 +2,7 @@
 
 ## Tecnologias
 <p align='center'>
-  <img src="https://img.shields.io/badge/Git-0b6b81?style=for-the-badge&logo=git&logoColor=black&colorA=ff69b4&colorB=pink" />
+  <img src="https://img.shields.io/badge/Git-0b6b81?style=for-the-badge&logo=git&logoColor=black&colorA=ff69b4&colorB=blue" />
   <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=black&colorA=ff69b4&colorB=pink" /> 
    
   <img src="https://img.shields.io/badge/HTML5-0b6b81?style=for-the-badge&logo=html5&logoColor=black&colorA=ff69b4&colorB=pink" />  
