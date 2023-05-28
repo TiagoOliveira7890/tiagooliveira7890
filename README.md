@@ -35,3 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoOliveira7890&langs_count=8)](https://github.com/TiagoOliveira7890/github-readme-stats)
 </br>
 </div>
+
+## Idiomas
+- Inglês (intermediário)
+- Espanhol (básico)
