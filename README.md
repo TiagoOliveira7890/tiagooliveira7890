@@ -39,8 +39,6 @@ Atualmente estou finalizando o módulo de Back-end na Trybe.
 </p>
 <div align='center'>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoOliveira7890&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoOliveira7890&langs_count=8)](https://github.com/TiagoOliveira7890/github-readme-stats)
 
 </div>
 
